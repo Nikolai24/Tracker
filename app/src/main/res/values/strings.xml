@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="bad_habit">Bad habit</string>
+    <string name="quantity">Quantity</string>
+    <string name="good_habit">Good habit</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="periodicity">Periodicity</string>
+    <string name="color">Color</string>
+    <string name="save_the_habit">Save the habit</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="priorities_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
